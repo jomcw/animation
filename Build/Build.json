@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "learningAnimations",
+"productName": "Combat Learn",
 "productVersion": "0.1",
 "dataUrl": "Build.data.unityweb",
 "wasmCodeUrl": "Build.wasm.code.unityweb",
